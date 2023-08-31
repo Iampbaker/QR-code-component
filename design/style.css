@@ -41,7 +41,7 @@ p {
     height: 60%;
     margin: 15px;
     border-radius: 15px;
-    background-image: url('/Users/patiencebaker/Desktop/Practice/Frontend Mentor Challenges/qr-code-component-main/images/image-qr-code.png');
+    background-image: url('/images/image-qr-code.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
